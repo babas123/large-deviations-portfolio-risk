@@ -1,4 +1,3 @@
-# large-deviations-portfolio-risk
 # Rare Chance-Constrained Portfolio Optimization using Large Deviations
 
 This repository contains the implementation and empirical analysis of a
